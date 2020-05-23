@@ -16,5 +16,8 @@ public class MainActivity extends AppCompatActivity {
         textView.setText("第一个分支");
 
         //我是第二个分支
+
+        //第一个分支修改
+        textView.setText("第一个分支修改");
     }
 }
