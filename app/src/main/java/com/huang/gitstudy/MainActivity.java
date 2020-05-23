@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         textView = findViewById(R.id.tv_msg);
         textView.setText("第一个分支");
+
+        //我是第二个分支
     }
 }
